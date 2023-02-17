@@ -1,0 +1,1 @@
+No aparece historia.log porque el ejercicio solicita unicamente añadir el archivo hoy.log al stage y realizar el commit. No se considera el archivo historia.log
